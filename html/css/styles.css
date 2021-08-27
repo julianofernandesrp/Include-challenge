@@ -1,0 +1,80 @@
+
+.divtext-in{
+	width: 1300px;
+	height: 180px;
+	background-color: #1E90FF;
+	font-family: arial;
+
+}
+.divtext-in:hover{
+	width: 1300px;
+	height: 180px;
+	background-color: #6495ED;
+	font-family: arial;
+}
+.divtext-color{
+	width: 1300px;
+	height: 180px;
+	background-color: #1E90FF;
+	font-family: arial;
+}
+.divtext-color:hover{
+	width: 1300px;
+	height: 180px;
+	background-color: #6495ED;
+	font-family: arial;
+
+}
+.btn-lk{
+	width:150px;
+	height: 50px;
+	background-color: #228B22;
+	color: #fff;
+	font-size: 10px;
+	font-family: arial;
+	border-radius: 25px;
+	border: none;
+	cursor:pointer;
+	box-shadow: 0 8px 0 #006400;
+}
+.btn-lk:hover{
+	background-color: #008000;
+	box-shadow: 0 8px 0 #006400;
+	
+}
+.btn-lk:active{
+	box-shadow: none;
+	position: relative;
+	top:5px;
+}
+.btn-lk:focus {
+ outline: thin dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+    outline-offset: 0px;
+}
+.btn-dlk{
+	width:150px;
+	height: 50px;
+	background-color: #FF4500;
+	color: #fff;
+	font-size: 10px;
+	font-family: arial;
+	border-radius: 25px;
+	border: none;
+	cursor:pointer;
+	box-shadow: 0 8px 0 #DC143C;
+}
+.btn-dlk:hover{
+	background-color: #FF0000;
+	box-shadow: 0 8px 0 #DC143C;
+}
+.btn-dlk:active{
+	box-shadow: none;
+	position: relative;
+	top:5px;
+}
+.btn-dlk:focus {
+ outline: thin dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+    outline-offset: 0px;
+}
